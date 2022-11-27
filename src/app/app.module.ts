@@ -7,6 +7,7 @@ import { EmpleadoHijoCComponent } from './empleado-hijo-c/empleado-hijo-c.compon
 import { CaracteristicasEmpleadoCComponent } from './caracteristicas-empleado-c/caracteristicas-empleado-c.component';
 import { ServicioEmpleadosService } from './servicio-empleados.service';
 import { EmpleadosService } from './empleados.service';
+import { ActualizaComponentComponent } from './actualiza-component/actualiza-component.component';
 
 
 @NgModule({
