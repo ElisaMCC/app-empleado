@@ -8,6 +8,7 @@ import { CaracteristicasEmpleadoCComponent } from './caracteristicas-empleado-c/
 import { ServicioEmpleadosService } from './servicio-empleados.service';
 import { EmpleadosService } from './empleados.service';
 
+
 @NgModule({
   declarations: [
     AppComponent,
